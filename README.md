@@ -7,7 +7,7 @@
 
 - None
 
----
+
 ```
 owner: 최준일
 id: ms-ai-school-18-57
